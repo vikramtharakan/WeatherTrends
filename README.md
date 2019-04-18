@@ -1,5 +1,5 @@
 # WeatherTrends
-Short Analysis of weather trends over the last 100 years or so
+Short Analysis of weather trends over the last couple hundred years
 
 ## Files included
 - **WeatherTrends.pdf** details all of the work done using the data on global temperatures
